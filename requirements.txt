@@ -10,3 +10,5 @@ thefuzz
 streamlit-option-menu
 matplotlib
 tiktoken
+sentencepiece
+protobuf
