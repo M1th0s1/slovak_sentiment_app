@@ -1,0 +1,11 @@
+streamlit
+pandas
+plotly
+transformers
+torch
+nltk
+simplemma
+unidecode
+thefuzz
+streamlit-option-menu
+matplotlib
